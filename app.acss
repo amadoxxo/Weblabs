@@ -1,0 +1,53 @@
+page {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.radio-group {
+  display: block;
+  padding: 20px;
+}
+
+.radio {
+  padding-right: 20px;
+}
+
+.checkbox {
+  display: block;
+  margin-bottom: 20rpx;
+  padding-left: 20px;
+}
+.checkbox-text {
+  font-size:34rpx;
+  line-height: 1.2;
+}
+
+text {
+  padding: 20px;
+}
+
+slider {
+  padding: 20px;
+}
+
+
+.section {
+  padding: 20px;
+  /* margin: 20px; */
+}
+
+textarea {
+  padding: 20px;
+}
+
+.boton {
+  /* display: flex; */
+  /* justify-content: center; */
+  padding: 5px;
+}
+
+input {
+  padding: 20px;
+}
